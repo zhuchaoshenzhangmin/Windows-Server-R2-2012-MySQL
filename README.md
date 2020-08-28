@@ -5,4 +5,4 @@ Windows Server R2 2012 安装 MySQL 的一系列步骤
 -------------------------------
   1、打开链接：（https://dev.mysql.com/downloads/mysql/）
   
-    !(https://github.com/zhuchaoshenzhangmin/Windows-Server-R2-2012-MySQL/blob/master/MySQL%E4%B8%8B%E8%BD%BD.png)
+    
